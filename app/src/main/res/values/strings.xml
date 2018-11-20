@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SimpleOlorALibro</string>
+    <string name="llibreries">Llibreries</string>
+    <string name="login">Login</string>
+    <string name="registro">Registrarse</string>
+    <string name="activitats">Actividades</string>
+    <string name="mapa">Mapa</string>
+    <string name="buscar">Escribe aqui para buscar</string>
+    <string name="paswd">**********</string>
+    <string name="example">example@example.com</string>
+    <string name="user">Nombre de usuario</string>
+    <string name="perfil">Perfil</string>
+
+
+
+</resources>
