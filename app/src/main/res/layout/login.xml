@@ -10,9 +10,9 @@
         android:id="@+id/ivLogo"
         android:layout_width="150dp"
         android:layout_height="150dp"
-        android:layout_marginTop="120dp"
+        android:layout_marginTop="100dp"
         android:layout_marginHorizontal="115dp"
-        android:src="@drawable/ic_launcher_background"
+        android:src="@drawable/logo_sgv"
         />
 
     <EditText
@@ -52,7 +52,7 @@
         android:layout_marginBottom="12dp"
         android:textAlignment="center"
         android:text="@string/registrarse"
-        android:alpha="0.6"
+        android:alpha="0.8"
         android:textSize="12sp"
         android:padding="5dp"
         />
