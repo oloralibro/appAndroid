@@ -14,7 +14,7 @@
     <string name="user">Nombre de usuario</string>
     <string name="perfil">Perfil</string>
     <string name="registrarse">Pulsa aqui para ir al registro</string>
-
+    <string name="title_activity_mapa">Map</string>
 
 
 </resources>
